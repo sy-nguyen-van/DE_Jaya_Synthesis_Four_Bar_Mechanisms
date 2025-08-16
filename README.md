@@ -2,7 +2,7 @@
 
 This repository contains MATLAB codes developed and used in the following paper:
 
-1. **Sy Nguyen-Van**, and Kwan-Woong Gwak. *[A New Study on Optimization of Four-Bar Mechanisms Based on a Hybrid-Combined Differential Evolution and Jaya Algorithm](https://doi.org/10.3390/sym14020381).* Symmetry.
+1. **Sy Nguyen-Van**; Qui X. Lieu; Nguyen Xuan-Mung; Thi Thanh Nga Nguyen. *[A New Study on Optimization of Four-Bar Mechanisms Based on a Hybrid-Combined Differential Evolution and Jaya Algorithm](https://doi.org/10.3390/sym14020381).* Symmetry.
 
 ## 🛠️ Usage
 
