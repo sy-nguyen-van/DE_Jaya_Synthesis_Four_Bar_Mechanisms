@@ -1,4 +1,4 @@
-# 🤖 Dimensional Synthesis of Four-Bar Mechanisms Based on a Hybrid-Combined Differential Evolution and Jaya Algorithm
+## ⛓️ Dimensional Synthesis of Four-Bar Mechanisms
 
 This repository contains MATLAB codes developed and used in the following paper:
 
